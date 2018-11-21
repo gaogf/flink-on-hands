@@ -1,0 +1,11 @@
+com\gaogf\flinkapp\FlinkAppApplication.class
+com\gaogf\flinkapp\bean\LogEvent.class
+com\gaogf\flinkapp\bean\ResponseMessage.class
+com\gaogf\flinkapp\server\LogEventApp$1.class
+com\gaogf\flinkapp\watermaker\LogEventWaterMarkExtractor.class
+com\gaogf\flinkapp\bean\ResultEvent.class
+com\gaogf\flinkapp\bean\RequestMessage.class
+com\gaogf\flinkapp\bean\ReqInfo.class
+com\gaogf\flinkapp\conf\PropertiesConfiguration.class
+META-INF\spring-configuration-metadata.json
+com\gaogf\flinkapp\server\LogEventApp.class

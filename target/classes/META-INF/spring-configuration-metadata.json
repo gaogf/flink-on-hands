@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "flink",
+      "type": "com.gaogf.flinkapp.conf.PropertiesConfiguration",
+      "sourceType": "com.gaogf.flinkapp.conf.PropertiesConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "flink.brokers",
+      "type": "java.lang.String",
+      "sourceType": "com.gaogf.flinkapp.conf.PropertiesConfiguration"
+    },
+    {
+      "name": "flink.groupid",
+      "type": "java.lang.String",
+      "sourceType": "com.gaogf.flinkapp.conf.PropertiesConfiguration"
+    },
+    {
+      "name": "flink.topic",
+      "type": "java.lang.String",
+      "sourceType": "com.gaogf.flinkapp.conf.PropertiesConfiguration"
+    },
+    {
+      "name": "flink.zookeeper",
+      "type": "java.lang.String",
+      "sourceType": "com.gaogf.flinkapp.conf.PropertiesConfiguration"
+    }
+  ],
+  "hints": []
+}
